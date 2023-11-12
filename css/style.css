@@ -61,7 +61,7 @@ ul li.active a{
 .button{
     position: relative;
     top: 62%;
-    left: 50%;
+    left: 51%;
     transform: translate(-50%,-50%);
 
 
@@ -73,7 +73,7 @@ ul li.active a{
         color: #fff;
         text-decoration: none;
     }
-}
+
 .button:hover{
     background-color: #fff;
     color: black;
